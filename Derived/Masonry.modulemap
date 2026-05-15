@@ -1,0 +1,6 @@
+framework module Masonry {
+  umbrella header "/Users/zakariadalil/Git/Masonry-master/Masonry/Masonry.h"
+
+  export *
+  module * { export * }
+}
