@@ -17,3 +17,6 @@ script/env.sh
 DerivedData/
 
 /Masonry.xcworkspace/xcshareddata/Masonry.xccheckout
+
+# Tuist writes this per-machine; committing it hardcodes one developer's paths.
+Derived/
